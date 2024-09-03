@@ -1,6 +1,4 @@
-# coco-siyu.github.io
-
-link to live site: https://coco-siyu.github.io
+Link to my live site: https://coco-siyu.github.io
 
 # About Me ;)
 Hi, my name is Siyu (Coco) Chen. 
